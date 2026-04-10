@@ -1,0 +1,42 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    text-align: center;
+}
+
+/* Header */
+header {
+    background: #4a90e2;
+    color: white;
+    padding: 20px;
+}
+
+/* About Section */
+.about {
+    margin: 20px;
+}
+
+/* Button */
+#colorBtn {
+    padding: 10px 20px;
+    background-color: #4a90e2;
+    border: none;
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 8px;
+}
+
+#colorBtn:hover {
+    background-color: #357abd;
+}
+
+/* Footer */
+footer {
+    background: #222;
+    color: #fff;
+    padding: 10px;
+    margin-top: 30px;
+}
